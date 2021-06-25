@@ -1,1 +1,1 @@
-# Get-Time-from-Outlook-Calendar
+# Get Outlook calendar meeting data using Python
